@@ -2,6 +2,10 @@ body {
     background-color: rgba(136,176,25,0.3);
 }
 
+a {
+    text-decoration: none;
+}
+
 h1 {
     font-family: 'Baloo Bhaina', cursive;
     background-color: white;
