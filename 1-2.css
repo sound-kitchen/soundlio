@@ -1,0 +1,15 @@
+.para {
+    width: 500px;
+    height: 500px;
+    padding: 50px 60px;
+    background-color: #ebebeb;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.para-content {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Lato";
+    color: #111;
+}
